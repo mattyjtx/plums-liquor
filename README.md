@@ -1,2 +1,2 @@
 # plums-liquor
-business website for Plums Liquor in ODessa, TX
+business website for Plums Liquor in Odessa, TX
